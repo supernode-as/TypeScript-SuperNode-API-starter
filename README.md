@@ -29,10 +29,10 @@ Getting Started
 
 ```bash
 # Get the latest snapshot
-git clone --depth=1 https://github.com/scopsy/node-typescript-starter.git projectname
+git clone https://github.com/supernode-as/TypeScript-SuperNode-API-starter.git projectname
 
 cd projectname
-rm -rf !$/.git
+rm -rf !$/.git (mulig denne utgår)
 
 npm install
 
